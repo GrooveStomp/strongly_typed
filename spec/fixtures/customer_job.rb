@@ -1,0 +1,2 @@
+class CustomerJob
+end
